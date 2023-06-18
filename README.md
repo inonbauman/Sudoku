@@ -9,7 +9,7 @@ This is a Sudoku game web application that allows users to play Sudoku puzzles a
 
 To get started with the Sudoku game, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/sudoku-game.git`
+1. Clone the repository: `git clone https://github.com/inonbauman/sudoku-game.git`
 2. Open the project directory.
 3. Open `index.html` in your web browser.
 
